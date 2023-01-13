@@ -18,7 +18,7 @@ Features :
 
 2)Orphanage details collection
 
-⦁ Enrollment
+- Enrollment
 ⦁ Requirements
 ⦁ Medical emergency 
 ⦁ Update details
