@@ -8,9 +8,9 @@ From our project we are providing users(donors) basic knowledge of the orphanage
 
 Tools used :
 
-⦁ Frontend: HTML,CSS,JavaScript.
-⦁ Backend: PHP
-⦁ DataBase:MySQL
+- Frontend: HTML,CSS,JavaScript.
+- Backend: PHP
+- DataBase:MySQL
 
 Features :
 
@@ -19,16 +19,16 @@ Features :
 2)Orphanage details collection
 
 - Enrollment
-⦁ Requirements
-⦁ Medical emergency 
-⦁ Update details
-⦁ Notifications 
+- Requirements
+- Medical emergency 
+- Update details
+- Notifications 
 
 3)Orphanage details display
 
-⦁ Search bar 
-⦁ Orphanage details 
-⦁ Emergency details 
+- Search bar 
+- Orphanage details 
+- Emergency details 
 
 4)Online Donation interface
 
